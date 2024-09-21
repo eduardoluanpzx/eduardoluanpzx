@@ -1,16 +1,16 @@
-## Hi there 👋
+### boas vindas ao meu perfil 
 
-<!--
-**eduardoluanpzx/eduardoluanpzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é eduardo 
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://WWW.Alura.com.br)
+- estou me desenvouvendo na linguagem javaScript
+- Utilizo  esse espaço para minha organização e compartilhamento dos meu projeto desenvouvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você entra em contato comigo 📧
+
+  eduardo.franchini@escola.pr.gov.br
+
+   @eduardoluan
+
+![](https://tenor.com/pt-BR/view/fresh-prince-lookatme-carlto-gif-21571479)
+ 
