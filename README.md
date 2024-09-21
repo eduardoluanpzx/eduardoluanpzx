@@ -4,7 +4,7 @@ meu nome é eduardo
 
 - Estou estudando na [alura](https://WWW.Alura.com.br)
 - estou me desenvouvendo na linguagem javaScript
-- Utilizo  esse espaço para minha organização e compartilhamento dos meu projeto desenvouvidos
+- Utilizo  esse espaço para minha organização e compartilhamento dos meu projeto desenvolvidos
 
   ### você entra em contato comigo 📧
 
